@@ -13,7 +13,7 @@ Software Engineer at <a href="https://nature.global/">Nature Inc</a>.
 </p>
 
 <!-- Introduction -->
-I’m passionate about translating project visions and objectives into reality, always willing to use my skills to solve problems in the engineering world. Detailled oriented, I attach great importance to each pixel. User interface as well as home design, calligraphy, arts ans nature are part of my inspirations.
+I’m passionate about translating project visions and objectives into reality, always willing to use my skills to solve problems in the engineering world. Detailled oriented, I attach great importance to each pixel. User interface as well as home design, calligraphy, art and nature are part of my inspirations.
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.<br />
 
@@ -24,5 +24,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <details>
   <summary>Some other achievements / articles</summary>
   <br/ >
-  * 📝 <a href="https://engineering.nature.global/entry/nature-remo-dark-mode">Dark mode implementation with React Native</a>                      
+  📝 <a href="https://engineering.nature.global/entry/nature-remo-dark-mode">Dark mode implementation with React Native</a>                      
 </details>
