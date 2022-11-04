@@ -21,8 +21,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Arnaud Derosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnaudDerosin&count_private=true&bg_color=30,12c2e9,c471ed&title_color=fff&text_color=fff)
 
 <!-- More -->
-<details>
-  <summary>Some other achievements / articles</summary>
-  <br/ >
-  📝 <a href="https://engineering.nature.global/entry/nature-remo-dark-mode">Dark mode implementation with React Native</a>                      
-</details>
+📝 Articles ▼
+<p>
+📱 <a href="https://engineering.nature.global/entry/nature-remo-dark-mode">Implement Dark mode for an app developped with React Native</a><br />
+⌚️ <a href="https://engineering.nature.global/entry/blog-fes-2022-apple-watch-screen-sizes">Apple Watch screen sizes guide</a><br />  
+⌚️ <a href="https://medium.com/@arnaud.derosin/communicate-between-your-watchos-app-and-your-ios-app-developed-with-react-native-b86ebe153d34">Communicate between your watchOS app and your iOS app developed with React Native</a>                  
+</p>
