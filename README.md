@@ -8,7 +8,7 @@ Software Engineer at <a href="https://nature.global/">Nature Inc</a>.
 <!-- Socials - Reach out -->
 <p>
   <a href="https://linkedin.com/in/arnaudderosin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8"/></a>
-  <a href="http://twitter.com/ArnaudDerosin/"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=00acee"/></a>
+  <a href="http://twitter.com/ArnaudDerosin/"><img src="https://img.shields.io/badge/𝕏-black?style=for-the-badge&logoColor=white&color=000000"/></a>
 
 <!-- Introduction -->
 I’m passionate about translating project visions and objectives into reality, always willing to use my skills to solve problems in the engineering world. Detailled oriented, I attach great importance to each pixel. User interface as well as home design, calligraphy, art and nature are part of my inspirations.
