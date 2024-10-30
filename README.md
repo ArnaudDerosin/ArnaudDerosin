@@ -11,7 +11,7 @@ Software Engineer at <a href="https://nature.global/">Nature Inc</a>.
   <a href="http://twitter.com/ArnaudDerosin/"><img src="https://img.shields.io/badge/𝕏-black?style=for-the-badge&logoColor=white&color=000000"/></a>
 
 <!-- Introduction -->
-I’m passionate about translating project visions and objectives into reality, always willing to use my skills to solve problems in the engineering world. Highly detail-oriented, I pay close attention the navigation flow and to every pixel to create the best user experience and a seamless sense of immersion. Inspired by home decor, calligraphy, art, and nature, I draw on these elements to craft engaging and refined user interface designs.
+I’m passionate about translating project visions and objectives into reality, always willing to use my skills to solve problems in the engineering world. Highly detail-oriented, I pay close attention to every pixel and maintain a user-centered perspective when designing and developing new features, allowing me to create an immersive and cohesive user experience. Inspired by home decor, calligraphy, art, and nature, I draw on these elements to craft engaging and refined user interface designs.
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.<br />
 
