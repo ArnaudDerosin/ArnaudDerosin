@@ -21,13 +21,13 @@
 
 ---
 
-With a full-stack foundation and deep expertise in mobile engineering, I bring products from concept to production. From backend architecture and APIs to pixel-perfect UI, intuitive UX and innovative features, I create experiences people genuinely love to use.
+With a full-stack foundation, I specialize in building high-quality mobile applications from concept to production. I enjoy working across the entire stack, from backend architecture and APIs to pixel-perfect UI and intuitive UX, transforming ideas into products that solve real problems and make a positive impact on people's everyday lives.
 
-I leverage AI to automate repetitive work, accelerate development and focus engineering where human expertise creates the greatest value: architecture, product thinking, creativity and user experience.
+I use AI to automate repetitive work, accelerate development and streamline workflows, allowing me to focus on architecture, creativity and crafting intuitive experiences.
 
 I believe great software lives in the details. Every interaction, animation and pixel has a purpose, and I enjoy refining products until they feel seamless, elegant and effortless.
 
-Outside of coding, I find inspiration in nature, followed by calligraphy, architecture and Japanese aesthetics. I'm equally fascinated by everyday life and human behavior, often drawing inspiration from the world around me to create products that feel natural, intuitive and genuinely enjoyable to use.
+Outside of coding, I find inspiration in nature, calligraphy and architecture. I'm equally fascinated by everyday life and human behavior, drawing from the world around me to create products that feel natural, intuitive and genuinely enjoyable to use.
 
 ---
 
