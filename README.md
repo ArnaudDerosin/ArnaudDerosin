@@ -11,9 +11,7 @@
 
 ---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-dark-v5.svg"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-light-v5.svg" alt="Mobile-First Engineer" width="490"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-subtitle-dark-v5.svg"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-subtitle-light-v5.svg" alt="Engineering software, leveraging AI, crafting meaningful experiences" width="490"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-dark-v5.svg?v=20260907a"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-light-v5.svg?v=20260907a" alt="Engineering software, leveraging AI, crafting meaningful experiences" width="490"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/phone-boot-ascii-dark.svg?v=20260725a"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/phone-boot-ascii-light.svg?v=20260725a" alt="mobile-first engineering" width="430"></picture>
 
