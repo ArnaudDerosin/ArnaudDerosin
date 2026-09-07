@@ -2,16 +2,16 @@
 
 <!-- Socials - Reach out -->
 <p>
-  <a href="https://www.linkedin.com/in/arnaudderosin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8"/></a>
-  <a href="https://x.com/ArnaudDerosin"><img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&color=000000"/></a>
-  <a href="https://youtrust.jp/users/arnaudderosin"><img src="https://img.shields.io/badge/YouTrust-309AA2?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arnaudderosin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8" alt="LinkedIn"/></a>
+  <a href="https://x.com/ArnaudDerosin"><img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="X (Twitter)"/></a>
+  <a href="https://youtrust.jp/users/arnaudderosin"><img src="https://img.shields.io/badge/YouTrust-309AA2?style=for-the-badge&logoColor=white" alt="YouTrust"/></a>
 </p>
 
 <div>Software Engineer at <a href="https://nature.global/">Nature Inc</a>.</div>
 
 ---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-dark-v5.svg?v=20260907b"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-light-v5.svg?v=20260907b" alt="Engineering software, leveraging AI, crafting meaningful experiences - mobile-first engineering" width="490"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-dark-v5.svg?v=20260907b"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-light-v5.svg?v=20260907b" alt="Engineering software, leveraging AI, crafting meaningful experiences - mobile-first engineer working with React Native, Swift, Kotlin, TypeScript and AI tooling" width="490"></picture>
 
 ---
 
@@ -38,4 +38,4 @@ Outside of coding, I find inspiration in nature, calligraphy and architecture. I
 
 ---
 
-<a href="https://github.com/ArnaudDerosin"><img src="https://img.shields.io/github/followers/ArnaudDerosin?style=for-the-badge&logo=github&label=Follow&color=7c3aed"/></a>
+<a href="https://github.com/ArnaudDerosin"><img src="https://img.shields.io/github/followers/ArnaudDerosin?style=for-the-badge&logo=github&label=Follow&color=7c3aed" alt="GitHub followers"/></a>
