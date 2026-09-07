@@ -1,6 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/hero-dark.svg?v=20260713a"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/hero-light.svg?v=20260713a" alt="Arnaud Derosin" width="490"></picture>
-
----
+**Arnaud Derosin**
 
 <!-- Socials - Reach out -->
 <p>
