@@ -11,7 +11,7 @@
 
 ---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-dark-v5.svg?v=20261006a"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-light-v5.svg?v=20261006a" alt="Engineering software, leveraging AI, crafting meaningful experiences - mobile-first engineer working with React Native, Swift, Kotlin, TypeScript and AI tooling" width="490"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-dark-v5.svg?v=20261007a"><img src="https://raw.githubusercontent.com/ArnaudDerosin/readme/master/assets/intro-title-light-v5.svg?v=20261007a" alt="Engineering software, leveraging AI, crafting meaningful experiences - mobile-first engineer working with React Native, Swift, Kotlin, TypeScript and AI tooling" width="490"></picture>
 
 ---
 
